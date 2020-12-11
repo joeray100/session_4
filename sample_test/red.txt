@@ -1,0 +1,22 @@
+Instance of Furniture class:
+
+couch is instance of Furniture class.
+
+Attributes:
+
+width (integer)
+furniture_type (array)
+color (string)
+comfort(boolean)
+
+Values of Attributes:
+
+width = 23
+furniture_type = ["chair", "stool", table]
+color = blue
+maintain comfort = True
+
+Results:
+
+add_width + 1 = 24
+choose_color: color = "blue"
