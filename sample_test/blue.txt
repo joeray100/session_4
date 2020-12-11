@@ -1,0 +1,15 @@
+class = "furniture"
+
+Attributes:
+
+width (integer)
+furniture_type (array)
+color (string)
+comfort(boolean)
+
+Methods:
+
+is_narrowed (changes) width
+to_paint (changes) color
+maintain comfort = True
+choose furniture_type ["chair", "stool", table]
